@@ -1,8 +1,0 @@
-This is the beginning of my story
-the nxt line of the fate
-<<<<<<< HEAD
-add new line
-=======
-How u doin bro
-O,dont know
->>>>>>> parent of 86926b5... Update file.txt
